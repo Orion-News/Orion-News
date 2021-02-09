@@ -1,4 +1,4 @@
-! [Estatísticas GitHub do Anurag] (https://github-readme-stats.vercel.app/api?Orion-News=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Orion-News=anuraghazra&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
