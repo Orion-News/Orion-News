@@ -3,7 +3,7 @@
 <!--
 **Orion-News/Orion-News** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-(https://github.com/Orion-News/github-readme-stats)
+! [Estatísticas GitHub do Anurag] (https://github-readme-stats.vercel.app/api ? Orion-News = anuraghazra & show_icons = true
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
