@@ -18,4 +18,4 @@
 </div>
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Orion-News&label=Profile%20views&color=ce9927&style=flat" alt="Orion-News" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Orion-News&label=Profile%20views&color=#0400f5&style=flat" alt="Orion-News" /> </p>
