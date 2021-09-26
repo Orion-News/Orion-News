@@ -9,15 +9,15 @@
 poisonous and disgusting.
 
 <h3> Um Poema Pra Mim Mesmo </h3>
-<b> lembre-se </b> você está em busca de se aperfeiçoar e se apronfudar, em computação...
-oque quiserem lhe dizer sobre oque acham das suas escolhas não devem te afetar ou viverá sendo apenas um piolho,
-não escolhi ser ou fazer ciencias da computação para me exibir, diferentes de outros vou em busca do oque eu quero.
-não espero que me entenda, mas se tentar me parar veras que a sua luta será dificil.
-não estou aqui para interferir ou atrapalhar ninguem de mim você so tera oque me ofereceu.
+<p><b> lembre-se </b> você está em busca de se aperfeiçoar e se apronfudar, em computação... </p>
+<p>oque quiserem lhe dizer sobre oque acham das suas escolhas não devem te afetar ou viverá sendo apenas um piolho.</p>
+<p>não escolhi ser ou fazer ciencias da computação para me exibir, diferentes de outros vou em busca do oque eu quero.</p>
+<p>não espero que me entenda, mas se tentar me parar veras que a sua luta será dificil.</p>
+<p>não estou aqui para interferir ou atrapalhar ninguem de mim você so tera oque me ofereceu.</p>
   </br>
-  <small> Eu sei oque eu quero, e portanto eu vou atras com minhas proprias pernas </small>
+  <p><small> Eu sei oque eu quero, e portanto eu vou atras com minhas proprias pernas </small></p>
   </br>
-suas experiencias me servem de aprendizado, porem não nos confuda... eu não sou você e nem quero ser.
+<p>suas experiencias me servem de aprendizado, porem não nos confuda... eu não sou você e nem quero ser.</p>
 <h1> Obrigado! 😊 </h1>
 </br>
 <div align="center">
