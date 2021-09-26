@@ -8,6 +8,7 @@
 - 📌 I like Back-end and mobile development, but I've also worked with Full-stack using Vue as a Front-end framework. I also like python and its universe
 poisonous and disgusting.
 
+</br>
 <div align="center">
   <a href="https://github.com/Orion-News">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Orion-News&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
