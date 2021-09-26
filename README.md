@@ -35,11 +35,11 @@ poisonous and disgusting.
   
   </br>
   <h6> BACK </h6>
-     <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Mocha" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg">
-  <img align="center" alt="Postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
+  <img align="center" alt="MongoDB" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="MongoDB" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Mocha" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg">
+  <img align="center" alt="Postgre" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
   </br>
   
   <h6> Other </h6>
