@@ -5,8 +5,21 @@
 - 🌌 My name is Geverson Wanderson.
 - 🎓 I am currently studying computer science.
 - ⚙️ I believe that technology is the solution to some problems and that we should only use it for the good.
-- 
+- 📌 I like Back-end and mobile development, but I've also worked with Full-stack using Vue as a Front-end framework. I also like python and its universe
+poisonous and disgusting.
 
+
+<div align="center">
+<h3> Um Poema Pra Mim Mesmo </h3>
+<b> lembre-se </b> você está em busca de se aperfeiçoar e se apronfudar, em computação...
+oque quiserem lhe dizer sobre oque acham das suas escolhas não devem te afetar ou viverá sendo apenas um piolho,
+não escolhi ser ou fazer ciencias da computação para me exibir, diferentes de outros vou em busca do oque eu quero.
+não espero que me entenda, mas se tentar me parar veras que a sua luta será dificil.
+não estou aqui para interferir ou atrapalhar ninguem de mim você so tera oque me ofereceu.
+  <small> Eu sei oque eu quero, e portanto eu vou atras com minhas proprias pernas </small>
+
+<h1> Obrigado! 😊 </h1>
+</div>
 <div align="center">
   <a href="https://github.com/Orion-News">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Orion-News&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
