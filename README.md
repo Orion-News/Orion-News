@@ -26,7 +26,7 @@ não estou aqui para interferir ou atrapalhar ninguem de mim você so tera oque 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orion-News&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <br>
   <h6> WEB FRONT </h6>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
