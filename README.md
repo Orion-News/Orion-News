@@ -1,6 +1,8 @@
 <div>
-  <h1> Geverson Wanderson </h1>
+  <h1> HI, very good you are here </h1>
 </div>
+
+- my name is Geverson Wanderson
 
 <div align="center">
   <a href="https://github.com/Orion-News">
