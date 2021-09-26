@@ -43,7 +43,7 @@ poisonous and disgusting.
   <img align="center" alt="Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
   </br>
   
-  <h6> Other </h6>
+  <h6> Others </h6>
   <img align="center" alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   <img align="center" alt="Unity" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg">
   <img align="center" alt="Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
