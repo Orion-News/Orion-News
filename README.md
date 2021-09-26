@@ -15,7 +15,8 @@ poisonous and disgusting.
 <p>não espero que me entenda, mas se tentar me parar veraz que a sua luta será dificil.</p>
 <p>não estou aqui para interferir ou atrapalhar ninguém, de mim você só terá oque me ofereceu.</p>
   </br>
-  <p>Eu sei oque eu quero, e portanto eu vou atras com minhas proprias pernas </p>
+  <p>Eu sei oque eu quero, e portanto eu vou atrás com minhas proprias pernas.</p>
+  <p>Sua ajuda só será bem-vinda se for verdadeira, interesada no progresso de ambos.</p>
   </br>
 <p>suas experiencias me servem de aprendizado, porem não nos confuda... eu não sou você e nem quero ser.</p>
 <h1> Obrigado! 😊 </h1>
