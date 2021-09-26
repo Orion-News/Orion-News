@@ -57,7 +57,7 @@ poisonous and disgusting.
   <img align="center" alt="Unity" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg">
   </br>
   
-  <h6>| SCIENCE | IA | ML | ACADEMY |</h6>
+  <h6>| SCIENCE | AI | ML | ACADEMY |</h6>
   <img align="center" alt="Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
 
 </div>
