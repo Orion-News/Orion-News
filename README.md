@@ -24,4 +24,7 @@
 </div>
 </br>
 
+<a href="https://www.linkedin.com/in/geverson-w-7b9850179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Orion-News&label=Profile%20views&color=0400f5&style=flat" alt="Orion-News" /> </p>
