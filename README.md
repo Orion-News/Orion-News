@@ -1,13 +1,14 @@
-<div>
+<div align="center">
   <h1> HI, very good you are here 😁</h1>
 </div>
 
+<div align="center">
 - 🌌 My name is Geverson Wanderson.
 - 🎓 I am currently studying computer science.
 - ⚙️ I believe that technology is the solution to some problems and that we should only use it for the good.
 - 📌 I like Back-end and mobile development, but I've also worked with Full-stack using Vue as a Front-end framework. I also like python and its universe
 poisonous and disgusting.
-
+</div>
 
 <div align="center">
 <h3> Um Poema Pra Mim Mesmo </h3>
@@ -16,9 +17,12 @@ oque quiserem lhe dizer sobre oque acham das suas escolhas não devem te afetar 
 não escolhi ser ou fazer ciencias da computação para me exibir, diferentes de outros vou em busca do oque eu quero.
 não espero que me entenda, mas se tentar me parar veras que a sua luta será dificil.
 não estou aqui para interferir ou atrapalhar ninguem de mim você so tera oque me ofereceu.
+  </br>
   <small> Eu sei oque eu quero, e portanto eu vou atras com minhas proprias pernas </small>
-
+  </br>
+suas experiencias me servem de aprendizado, porem não nos confuda... eu não sou você e nem quero ser.
 <h1> Obrigado! 😊 </h1>
+</br>
 </div>
 <div align="center">
   <a href="https://github.com/Orion-News">
@@ -49,7 +53,8 @@ não estou aqui para interferir ou atrapalhar ninguem de mim você so tera oque 
 </div>
 </br>
 
+<div align="center">
 <a href="https://www.linkedin.com/in/geverson-w-7b9850179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Orion-News&label=Profile%20views&color=0400f5&style=flat" alt="Orion-News" /> </p>
+</div>
