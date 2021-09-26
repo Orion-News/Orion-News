@@ -1,5 +1,21 @@
+<div>
+  <h1> Geverson Wanderson </h1>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orion-News&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orion-News&langs_count=8&layout=compact&custom_title=Linguagens)](https://github.com/Orion-News/Orion-News)
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+</div>
+</br>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Orion-News&label=Profile%20views&color=ce9927&style=flat" alt="Orion-News" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Orion-News&label=Profile%20views&color=ce9927&style=flat" alt="Orion-News" /> </p>
