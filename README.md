@@ -8,19 +8,6 @@
 - 📌 I like Back-end and mobile development, but I've also worked with Full-stack using Vue as a Front-end framework. I also like python and its universe
 poisonous and disgusting.
 
-<h3> Um Poema Pra Mim Mesmo </h3>
-<p><b> lembre-se </b> você está em busca de se aperfeiçoar-se e se apronfudar, em computação... </p>
-<p>oque quiserem lhe dizer sobre oque acham das suas escolhas não devem te afetar ou viverá sendo apenas um piolho.</p>
-<p>não escolhi ser ou fazer ciências da computação para me exibir, diferente de outros, vou em busca do oque eu quero.</p>
-<p>não espero que me entenda, mas se tentar me parar veraz que a sua luta será dificil.</p>
-<p>não estou aqui para interferir ou atrapalhar ninguém, de mim você só terá oque me ofereceu.</p>
-  </br>
-  <p>Eu sei oque eu quero, e portanto eu vou atrás com minhas proprias pernas.</p>
-  <p>Sua ajuda só será bem-vinda se for verdadeira, interesada no progresso de ambos.</p>
-  </br>
-<p>suas experiencias me servem de aprendizado, porem não nos confuda... eu não sou você e nem quero ser.</p>
-<h1> Obrigado! 😊 </h1>
-</br>
 <div align="center">
   <a href="https://github.com/Orion-News">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Orion-News&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
