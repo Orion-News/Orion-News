@@ -9,13 +9,13 @@
 poisonous and disgusting.
 
 <h3> Um Poema Pra Mim Mesmo </h3>
-<p><b> lembre-se </b> você está em busca de se aperfeiçoar e se apronfudar, em computação... </p>
+<p><b> lembre-se </b> você está em busca de se aperfeiçoar-se e se apronfudar, em computação... </p>
 <p>oque quiserem lhe dizer sobre oque acham das suas escolhas não devem te afetar ou viverá sendo apenas um piolho.</p>
-<p>não escolhi ser ou fazer ciencias da computação para me exibir, diferentes de outros vou em busca do oque eu quero.</p>
-<p>não espero que me entenda, mas se tentar me parar veras que a sua luta será dificil.</p>
-<p>não estou aqui para interferir ou atrapalhar ninguem de mim você so tera oque me ofereceu.</p>
+<p>não escolhi ser ou fazer ciências da computação para me exibir, diferente de outros, vou em busca do oque eu quero.</p>
+<p>não espero que me entenda, mas se tentar me parar veraz que a sua luta será dificil.</p>
+<p>não estou aqui para interferir ou atrapalhar ninguém, de mim você só terá oque me ofereceu.</p>
   </br>
-  <p><small> Eu sei oque eu quero, e portanto eu vou atras com minhas proprias pernas </small></p>
+  <p>Eu sei oque eu quero, e portanto eu vou atras com minhas proprias pernas </p>
   </br>
 <p>suas experiencias me servem de aprendizado, porem não nos confuda... eu não sou você e nem quero ser.</p>
 <h1> Obrigado! 😊 </h1>
