@@ -5,8 +5,7 @@
 - 🌌 My name is Geverson Wanderson.
 - 🎓 I am currently studying computer science.
 - ⚙️ I believe that technology is the solution to some problems and that we should only use it for the good.
-- 📌 I like Back-end and mobile development, but I've also worked with Full-stack using Vue as a Front-end framework. I also like python and its universe
-poisonous and disgusting.
+- 📌 I like Back-end and mobile development, but I've also worked with Full-stack using Vue as a Front-end framework.
 
 </br>
 <div align="center">
